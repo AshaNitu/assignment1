@@ -188,3 +188,33 @@ font-size: 56px;
     margin-top: 20px;
 
 }
+.read-more-section1{
+    background: #006A50;
+    width: 139px;
+    height: 48px;
+    border: 1px solid #006A50;
+    border-radius: 8px;
+    color: white;
+    font-size: 18;
+}
+.donation-text-style{
+    text-align: center;
+}
+.donation-container{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+
+}
+.donation-container h1{
+    border: 1px solid #006A50;
+    padding: 40px 40px;
+    border-radius: 16px;
+    background-color: white;
+    width: 210px;
+
+
+}
+.donation-background-color{
+    background-color: #c6e4d6 !important;
+}
