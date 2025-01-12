@@ -1,0 +1,180 @@
+.container {
+    width: 1280px;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #F1F1F3;
+}
+
+.header-sec {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-top: 12px;
+}
+
+.signin-design{
+    background: none;
+    width: 105px;
+    height: 45px;
+    border: 1px solid green;
+    border-radius: 7px;
+}
+
+.hero-section{
+    background-color: #C6E4D6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 80px 0;
+    margin-top: 30px;
+    border-radius: 24px;
+}
+
+.hero-sectio-text{
+width: 582px;
+
+}
+
+.hero-sectio-text h1{
+font-weight: bold;
+font-size: 56px;
+} 
+
+.hero-sectio-text h3{
+    font-weight: 300;
+    color: #6a7972;
+}
+
+.hero-sectio-text button{
+    padding: 17px 34px;
+    background-color: #006A50;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+}
+
+.hero-section-image img{
+    
+    width: 329px;
+    height: 313px;
+}
+
+.card-section{
+    display: flex;
+    justify-content: space-between;
+
+}
+.card-section p{
+    color: #6a7972;
+}
+.vision-title{
+    font-size: 40;
+    font-weight: bold;
+}
+.vision-sub{
+    font-weight: 300;
+    color: #6a7972;
+}
+.digital-transformation{
+    border: 1px solid #5490F5;
+    width: 410;
+    height: 325;
+    padding: 32px 32px;
+    background-color: #d5e1f5;
+    margin-right: 24px;
+    border-radius: 16px;
+}
+.digital-transformation button{
+    background: #5490f5;
+    width: 105px;
+    height: 45px;
+    border: 1px solid #5490F5;
+    border-radius: 8px;
+    color: white;
+
+}
+.green-energy{
+    border: 1px solid #5490F5;
+    width: 410;
+    height: 325;
+    padding: 32px 32px;
+    background-color: #C6E4D6;
+    margin-right: 24px;
+    border-radius: 16px;
+
+}
+.green-energy button{
+    background: #09A15C;
+    width: 105px;
+    height: 45px;
+    border: 1px solid #5490F5;
+    border-radius: 8px;
+    color: white;
+}
+.Modern-Infrastructure{
+    border: 1px solid #5490F5;
+    width: 410;
+    height: 325;
+    padding: 32px 32px;
+    background-color: #F7EBCF;
+    border-radius: 16px;
+
+}
+.Modern-Infrastructure button{
+    background: #ffc239;
+    width: 105px;
+    height: 45px;
+    border: 1px solid #5490F5;
+    border-radius: 8px;
+    color: white;
+}
+
+.name{
+    font-weight: bold;
+}
+
+.quote-section{
+    margin: 32px 0;
+    background-color: #fff;
+    padding: 48px 24px;
+}
+
+.quote-text{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.designation{
+    color: #6a7972;
+}
+.recent-news-section{
+    font-weight: bold;
+    font-size: 40;
+}
+.recent-news-text{
+    font-size: 16;
+    color: #6a7972;
+
+}
+.text-section{
+    width: 744px;
+    height: 290px;
+}
+.image-text-section{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 48px 48px;
+
+}
+.image-news img{
+    width: 408px;
+    height: 306px;
+    border-radius: 24px;
+}
+
+.date-section{
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}
