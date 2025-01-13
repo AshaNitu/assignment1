@@ -218,3 +218,14 @@ font-size: 56px;
 .donation-background-color{
     background-color: #c6e4d6 !important;
 }
+.donatation-box input{
+    width: 1032px ;
+    height: 64px;
+    border: none;
+    
+}
+
+.donatation-box input::placeholder{
+    text-align: center;
+    font-size: 20px;
+}
